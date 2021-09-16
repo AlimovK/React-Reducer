@@ -1,10 +1,10 @@
 import React from "react";
-import { Reducer } from "./reducer";
+import Index from "./index.jsx";
 
 function App() {
   return (
     <div>
-      <Reducer />
+      <Index />
     </div>
   );
 }
